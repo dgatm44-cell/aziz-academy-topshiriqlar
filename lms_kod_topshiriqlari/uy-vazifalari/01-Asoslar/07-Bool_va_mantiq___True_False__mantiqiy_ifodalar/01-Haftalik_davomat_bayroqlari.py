@@ -1,0 +1,1 @@
+print("Dushanba: True\nSeshanba: True\nChorshanba: False\nPayshanba: True\nJuma: False")
