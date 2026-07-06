@@ -1,0 +1,1 @@
+print("Talaba: Aziz\nTo'lov qilingan: False")
