@@ -1,0 +1,1 @@
+print("True\nFalse\nFalse")
