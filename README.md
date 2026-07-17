@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — SHERALIYEV RASULBEK
+# 🎓 Aziz Academy — Sheraliyev Rasulbek
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **2%**  (4/179 mavzu)
 
-- ⭐ Jami ball: **13504**
-- 📤 GitHubga yuborilgan topshiriqlar: **137**
+- ⭐ Jami ball: **13983**
+- 📤 GitHubga yuborilgan topshiriqlar: **138**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-15 10:34</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 10:01</sub>
